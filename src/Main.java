@@ -62,6 +62,37 @@ short loseWeight = 7;
         System.out.println("за сколько дней сбросит вес" + c + "дней");
 
 
+        // Задание 5
+        int zpMasha = 67760;
+        int zpDenis = 83690;
+        int zpKristina = 76230;
+        int increaseZpMasha = 67760 / 100 * 10;
+        System.out.println("Зарплата Маши будет увеличена на " + increaseZpMasha + "рублей");
+        int increaseZpDenis = 83690 / 100 * 10;
+        System.out.println("Зарплата Дениса будет увеличена на " + increaseZpDenis + "рублей");
+        int increaseZpKristina = 76230 / 100 * 10;
+        System.out.println("Зарплата Кристины будет увеличена на " + increaseZpKristina + "рублей");
+        int annualIcomeMasha = 67760 * 12;
+        System.out.println("Годовой доход Маши до повышения зп составил" + annualIcomeMasha + "рублей");
+        int annualIcomeDenis = 83690 * 12;
+        System.out.println("Годовой доход Дениса до повышения зп составил" + annualIcomeDenis + "рублей");
+        int annualIcomeKristina = 76230 * 12;
+        System.out.println("Годовой доход Кристины до повышения зп составил" + annualIcomeKristina + "рублей");
+        int increasedAnnualIcomeMasha = (67760 + 6770) * 12;
+        System.out.println("Годовой доход Маши после повышения зп составил" + increasedAnnualIcomeMasha + "рублей");
+        int increasedAnnualIcomeDenis = (83690 + 8360) * 12;
+        System.out.println("Годовой доход Дениса после повышения зп составил" + increasedAnnualIcomeDenis + "рублей");
+        int increasedAnnualIcomeKristina = (76230 + 7620) * 12;
+        System.out.println("Годовой доход Кристины после повышения зп составил" + increasedAnnualIcomeKristina + "рублей");
+        int differenceIncomeDenis = 1104600 - 1004280;
+        System.out.println("Годовой доход Дениса вырос на" + differenceIncomeDenis + "рублей");
+        int differenceIncomeKristina = 1006200 - 914760;
+        System.out.println("Годовой доход Кристины вырос на" + differenceIncomeKristina + "рублей");
+
+
+
+
+
 
 
 
